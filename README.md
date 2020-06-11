@@ -19,10 +19,12 @@ App com demonstrativo de um dialog sendo aberto ao clicar em determinado botão.
 #### asyncStorage ####
 
 App que salva o texto do input quando aperta o botão salvar. Se você fechar o app e abrir novamente, o texto incluído anteriormente continua sendo exibido em tela até o momento em que seja escrito outra informação no input.
+Foi instalado o asyncStorage e utilizadas as funções componentDidMount() e componentdidupdate().
 
 #### http ####
 
 Um catálogo sendo alimentado de uma api externa contendo os filmes e suas respectivas informações.
+Foi instalado o axios para a realização das requisições.
 
 #### conversor ####
 
