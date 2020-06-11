@@ -1,7 +1,8 @@
 
 # curso-react-native
 
-### Para rodar quaisquer dos apps, utilizo a ferramenta Expo. `expo start`
+### Para rodar quaisquer dos apps, utilizo a ferramenta Expo. 
+`expo start`
 
 
 #### gtApp ####
