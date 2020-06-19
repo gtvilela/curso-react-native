@@ -30,3 +30,13 @@ Foi instalado o axios para a realização das requisições.
 #### conversor ####
 
 App que utiliza requisições HTTP para a conversão de moedas. O app é alimentado de uma api externa. 
+
+### animacoes ###
+
+App em react native que utiliza variados tipos de animações como, de formas simples, em loop, em sequência, em sequencia e dentro dele em paralelo, etc.
+
+### hooks ###
+Aplicação onde se éutilizado os vários tipos de hooks, nova forma do react native para deixar o projeto mais dinâmico e rápido. (useState, useEffect, useMemo, useRef)
+
+### navegacao ###
+Aplicativo contendo os tipos de navegação. Tabs, Drawer e Stacks. 
